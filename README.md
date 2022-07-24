@@ -1,2 +1,2 @@
-# GestionBiblithque
+# GestionBibliothque
 Logiciel de gestion d'une bibliothéque fait en C++ avec Qt
